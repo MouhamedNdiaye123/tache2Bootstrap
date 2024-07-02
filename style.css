@@ -4,6 +4,7 @@
 }
 nav, .home, .footer{
     background-color: #8F17AA;
+    border: none;
 }
 .img-play{
     width: 30px;
@@ -11,14 +12,14 @@ nav, .home, .footer{
 .home h1{
     margin-top: 100px;
 }
-.btns .btn-primary{
+.btns .btn-danger{
     background-color: #571167;
     box-shadow: none;
     padding: 10px 25px;
     border-radius: 20px;
     border: none;
 }
-.btns .btn-primary:hover{
+.btns .btn-danger:hover{
     background-color: #6a1c7b;
 }
 
