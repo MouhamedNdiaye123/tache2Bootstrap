@@ -11,6 +11,17 @@ nav, .home, .footer{
 .home h1{
     margin-top: 100px;
 }
+.btns .btn-primary{
+    background-color: #571167;
+    box-shadow: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+}
+.btns .btn-primary:hover{
+    background-color: #6a1c7b;
+}
+
 .card-img img{
     width: 80px;
 }
@@ -33,4 +44,8 @@ p{
 } */
 .footer-icon i{
     background-color: #571167;
+}
+
+.temoin-box{
+    border-left: 4px solid #8F17AA;
 }
